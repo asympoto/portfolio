@@ -1,0 +1,77 @@
+{
+  "certificates": [
+    {
+      "id": 1,
+      "name": "AWS Cloud Practioner",
+      "issuer": "AWS Amazon",
+      "year": "2025",
+      "description": "Cloud computing fundamentals and services",
+      "image": "./assets/certificates/aws essencial.jpg",
+      "link": "https://drive.google.com/file/d/1nm9gkTVvu7WWujbgz2zjEUuoNHN-rHIn/view?usp=drive_link"
+    },
+    {
+      "id": 2,
+      "name": "AWS Academy Graduate",
+      "issuer": "AWS Amazon",
+      "year": "2025",
+      "description": "Comprehensive AWS training covering cloud architecture, deployment, and best practices",
+      "image": "./assets/certificates/AWS_Academy.jpg",
+      "link": "https://drive.google.com/file/d/1dvB3Od0lAwrwigfC8TckmCwYBITCKVGM/view?usp=drive_link"
+    },
+    {
+      "id": 3,
+      "name": "AWS Cloud Quest",
+      "issuer": "AWS Amazon",
+      "year": "2025",
+      "description": "Hands-on gamified learning experience covering AWS cloud services and real-world scenarios",
+      "image": "./assets/certificates/aws practi.jpg",
+      "link": "https://drive.google.com/file/d/1upSNCGQLKuzzpoSRu4lvXniIdA0sOk5p/view?usp=drive_link"
+    },
+    {
+      "id": 4,
+      "name": "IBM Skills Build",
+      "issuer": "IBM",
+      "year": "2025",
+      "description": "Professional Certificate, gaining hands-on skills in machine learning and AI model development",
+      "image": "./assets/certificates/IBMDesign.jpg",
+      "link": "https://drive.google.com/file/d/1PHVTnvW9UJgcbiP39J2qESHjZ_gPipD8/view?usp=drive_link"
+    },
+    {
+      "id": 5,
+      "name": "CODE Technologies",
+      "issuer": "CODE TECHNOLOGIES",
+      "year": "2025",
+      "description": "Gaining hands-on experience in software development and real-world project implementation",
+      "image": "./assets/certificates/Internship Certificate.jpg",
+      "link": "https://drive.google.com/file/d/1SmiUp4xGhLY3st7-bjNtK5ujW90og02W/view?usp=drive_link"
+    },
+    {
+      "id": 6,
+      "name": "Agile Project Management",
+      "issuer": "HP",
+      "year": "2024",
+      "description": "Agile Project Management, gaining skills in sprint planning, team collaboration, and iterative project delivery",
+      "image": "./assets/certificates/certificate.jpg",
+      "link": "https://drive.google.com/file/d/1QEffJyS5JREuHA9h7Bfj_wyQXTDF_BVX/view?usp=drive_link"
+    },
+    {
+      "id": 7,
+      "name": "AI for Beginners",
+      "issuer": "HP",
+      "year": "2024",
+      "description": "Gaining foundational knowledge of machine learning, neural networks, and basic AI concepts.",
+      "image": "./assets/certificates/certificate (1).jpg",
+      "link": "https://drive.google.com/file/d/1DyFUY3nEwPAU5rX3dFTiecEdd9_GQ-8J/view?usp=drive_link"
+    },
+    {
+      "id": 8,
+      "name": "CODE ALPHA",
+      "issuer": "CODE ALPHA",
+      "year": "2025",
+      "description": "Gaining hands-on experience in software development and real-world project implementation",
+      "image": "./assets/certificates/intership2.jpg",
+      "link": "https://drive.google.com/file/d/10O762IueivPgijPVPrAmXsIzK0XDDkLY/view?usp=drive_link"
+    }
+
+  ]
+}

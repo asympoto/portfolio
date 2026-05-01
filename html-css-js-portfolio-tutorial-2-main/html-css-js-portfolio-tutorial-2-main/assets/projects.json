@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "ML Model Comparison Web App",
+      "description": "Python, Scikit-learn, Pandas, Streamlit, Vercel",
+      "image": "./assets/projects/project-1.png",
+      "githubLink": "https://github.com/asympoto/ML-Model-comparison",
+      "liveLink": "https://ml-model-comparison-lnwyav49xgpa2xa3sxes7m.streamlit.app/"
+    },
+    {
+      "id": 2,
+      "title": "Frontend Web Application",
+      "description": "React, JavaScript, CSS, Vercel",
+      "image": "./assets/projects/project-2.png",
+      "githubLink": "https://github.com/asympoto/demo/tree/main/food%20court%20with%20backend",
+      "liveLink": "https://agent-69d2a790c351ae64da3c--gleeful-dasik-a53887.netlify.app/"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Application",
+      "description": "Node.js, Express, React, MongoDB, Vercel",
+      "image": "./assets/projects/project-3.png",
+      "githubLink": "https://github.com/asympoto/Mikko-meri-kukoo",
+      "liveLink": "https://agent-69f3a5c4a1ed9da2c3a0ba71--mikko-meri.netlify.app/"
+    }
+  ]
+}
